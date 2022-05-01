@@ -156,7 +156,7 @@ NOTE: Try it on small audio or big computer! ;) """
 
 
 <br> <br> <br> <br> 
-## TODO: Toresign from list of all bumps since idea of using that list was abandoned.
+## TODO: To resign from list of all bumps since idea of using that list was abandoned.
 ## TODO: Reading file from disk in chunks so it can works on multi-hours recordings.
 
 
