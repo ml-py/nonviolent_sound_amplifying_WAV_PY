@@ -1,5 +1,5 @@
 
-# nonviolent_sound_amplifying_WAV_PY
+### nonviolent_sound_amplifying_WAV_PY
 # Smart Nonviolent Audio Sound Amplifier
 
 ### It is amplifying audio but not those loud parts.
@@ -156,8 +156,8 @@ NOTE: Try it on small audio or big computer! ;) """
 
 
 <br> <br> <br> <br> 
-## TODO: resign from list of all bumps since idea of usin that list was abandoned.
-## TODO: reading file from dysk in chunks so it can works on multihours recordings.
+## TODO: Toresign from list of all bumps since idea of using that list was abandoned.
+## TODO: Reading file from disk in chunks so it can works on multi-hours recordings.
 
 
 
