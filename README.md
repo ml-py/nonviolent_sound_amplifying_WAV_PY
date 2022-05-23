@@ -1,5 +1,5 @@
 
-### nonviolent_sound_amplifying_WAV_PY
+# nonviolent_sound_amplifying_WAV_PY
 # Smart Nonviolent Audio Sound Amplifier
 
 ### It is amplifying audio but not those loud parts.
@@ -156,15 +156,15 @@ NOTE: Try it on small audio or big computer! ;) """
 
 
 <br> <br> <br> <br> 
-## TODO: To resign from list of all bumps since idea of using that list was abandoned.
-## TODO: Reading file from disk in chunks so it can works on multi-hours recordings.
+## TODO: resign from list of all bumps since idea of usin that list was abandoned.
+## TODO: reading file from dysk in chunks so it can works on multihours recordings.
 
 
 
 
 <br> <br> <br> 
 <br> <br> <br> <br> <br> <br> 
-<img    src="220314pon1803 (PiDayΠπDay) na(((200505wto1228))) wav [ [], [], [], [] ] .py  DocString_jedynie 10 kostki .ods BiałeWszystkieLiterki .html .png .xcf CyanMagenta .jpg"        >
+<img    src="220314pon1803 (PiDayΠπDay) na(((200505wto1228))) wav [ [], [], [], [] ] .py  DocString_jedynie 10 .ods .html x1,7 .png .xcf .png"        >
 
 
 
@@ -173,4 +173,4 @@ NOTE: Try it on small audio or big computer! ;) """
 <br> <br> <br> <br> <br> <br> 
 <br> <br> <br> <br> <br> <br> 
 ## And if you want to see it once again:
-<img    src="220314pon1803 (PiDayΠπDay) na(((200505wto1228))) wav [ [], [], [], [] ] .py  DocString_jedynie 10 .ods .html x1,7 .png .xcf .png"        >
+<img    src="220314pon1803 (PiDayΠπDay) na(((200505wto1228))) wav [ [], [], [], [] ] .py  DocString_jedynie 10 kostki .ods BiałeWszystkieLiterki .html .png .xcf CyanMagenta .jpg"        >
