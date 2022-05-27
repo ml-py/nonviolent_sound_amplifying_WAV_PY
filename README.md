@@ -14,7 +14,7 @@
 
 
 
-<br> <br> <br> 
+<br> <br> 
 
 ### How to use it:   
 #### You just need ` nonviolent_sound_ampl...*.py ` ⠀and ⠀file the ` *.wav. ` file. ⠀The program/script from ` *.py ` will use data from ` *.wav `. ⠀It will create another moddified file.   <br> <br>If you uncomment some parts of the code like ` # plt.savefig() ` you will need other  ` *.py ` files located in this repo.
@@ -22,7 +22,7 @@
 
 
 
-<br> <br> <br> 
+<br> <br> <br> <br> 
 
 #### If docstring below is not readable please scroll down for pictured version of it.
 ``` python
