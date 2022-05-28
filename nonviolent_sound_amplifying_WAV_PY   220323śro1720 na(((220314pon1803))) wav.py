@@ -1,3 +1,6 @@
+# Kinda long docstring.
+# You may need to disable soft wrap to see it clearly.
+# If you've seen it already in  readme.MD  you may want to scroll down to the line 156 for the code
 it_is_amplifying_audio_but_not_those_loudly_parts = """
 
 
@@ -270,7 +273,7 @@ def deamplify_gently_parts_of_channel_by_threshold(   channel:List[int]
     counter = 1
     periods = periods_over_threshold_list = []
     # for start_p, end_p   in [   *zip(  zero_cross_list[ :-1],  zero_cross_list[1: ]  )   ]:
-    # print(                        *zip(  zero_cross_list[ :-1],  zero_cross_list[1: ]  )   )
+    # print(                      *zip(  zero_cross_list[ :-1],  zero_cross_list[1: ]  )        )
     '''   (0, 5)     (5, 52)     (52, 103)  (103, 148)  (148, 182)  (182, 228)  (228, 276)  (276, 321)
         (321, 347)  (347, 352)  (352, 356)  (356, 399)  (399, 452)  (452, 494)  (494, 495)  (495, 496)  (496, -1) '''
     for start_end   in             zip(  zero_cross_list[ :-1],  zero_cross_list[1: ]  )    :
@@ -445,7 +448,7 @@ def deamplify_gently_parts_of_channel_by_threshold(   channel:List[int]
 ⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹
 ⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸
 
-                                   P R O C E S
+                                  P R O C E S S
 
 ⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹
 ⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸⡏⠉⢹⣇⣀⣸                                    """
