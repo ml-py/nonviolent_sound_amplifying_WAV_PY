@@ -1,6 +1,6 @@
 # Kinda long docstring.
 # You may need to disable soft wrap to see it clearly.
-# If you've seen it already in  readme.MD  you may want to scroll down to the line 156 for the code
+# If you've seen it already in  readme.MD  you may want to scroll down to the line 156 for the code.
 it_is_amplifying_audio_but_not_those_loudly_parts = """
 
 
@@ -691,7 +691,7 @@ output_f_name   =  f"{  f_name[ :-5]  } "                             \
                    f"len_{  audio_length  }"                          \
                    f" _shrunkFrom{  THRESHOLD                      }" \
                              f"to{  THRESHOLD - ADDITIONAL_OFFSET  }" \
-                   f"_bumpsShrunkinfLastChannel{ counter }±2.wav"
+                   f"_bumpsShrunkinLastChannel{ counter }±2.wav"
 write(   output_f_name,   samplerate,   data   )
 
 
